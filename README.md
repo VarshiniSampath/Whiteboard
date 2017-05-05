@@ -1,6 +1,6 @@
 # whiteboard 
 
-Want to relax after a long and tiring day? Forget the grueling process of taking your phone or laptop out, unlocking it, opening a browser and then loading Blackboard or Piazza’s website to look for what you want. We bring to you Whiteboard, a voice enabled learning management system, powered by the infamous Amazon Alexa.
+Want to relax after a long and tiring day? Forget the grueling process of taking your phone or laptop out, unlocking it, opening a browser and then loading Blackboard or Piazza’s website to look for what you want. We bring to you Whiteboard, a voice enabled learning management system, powered by the Amazon Alexa.
 
 Our vision for Whiteboard was to provide a more natural interaction modality for performing everyday tasks like checking grades, checking the due date for the next deliverable, asking and answering questions on Piazza, etc. With voice being tooted as the next big platform and voice interaction for learning management still left unexplored, we look at bridging this gap with Whiteboard.
 
