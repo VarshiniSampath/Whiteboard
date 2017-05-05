@@ -7,13 +7,13 @@ Our vision for Whiteboard was to provide a more natural interaction modality for
 
 ## Getting started
 
-### 1. Zip the following files and folders directly. This will create an Archive.zip
+1. Zip the following files and folders directly. This will create an Archive.zip
  - lib, node_modules, index.js, NOTICE.txt, package.json
  
- ### 2. The details on how to go about setting up the custom skill(defined by our code) in Alexa Skill Kit and link it to your AWS Account can be found in the following link. 
+2. The details on how to go about setting up the custom skill(defined by our code) in Alexa Skill Kit and link it to your AWS Account can be found in the following link. 
  ```https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/registering-and-managing-alexa-skills-in-the-developer-portal```
  
- ### 3. 
+ 3. Define the intents provide in Intents.txt on Amazon's Alexa Voice Service.
  
  ## How it works
  
