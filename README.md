@@ -27,41 +27,45 @@ We use Piazza's API, which is available as an ``npm`` module, to perform specifi
 
 Blackboard provides a REST API for use by developers. You can read more about it here ``https://developer.blackboard.com/portal/displayApi``. The REST API provides a JSON object in the following format.
 
-``{
-    "CS 522": {
-        hw3: {
-            value: 100,
-            average: 77,
-            median: 94
-        },
-        overall: {
-            value: 94.16,
-            average: 83.14,
-            median: 89.15
-        }
-       content: [{
-         content_id: "HomeWork 3"
-         due_date: "4th April 2017",
-         due_time: "12:00 AM"
-      	},
-        { 
-         content_id: "HomeWork 2"
-         due_date: "16th February 2017",
-         due_time: "12:00 AM"
-        }]
-    },
-    "CS 477": {
-        final: {
-            value: 96,
-            average: 81,
-            median: 83
-        },
-        overall: {
-            value: 96,
-            average: 78,
-            median: 81
-        }
-    }
-}``
+```json
+{
+   "CS 522": {
+      "hw3": {
+         "value": 100,
+         "average": 77,
+         "median": 94
+      },
+      "overall": {
+         "value": 94.16,
+         "average": 83.14,
+         "median": 89.15
+      },
+      "content": [
+         {
+            "content_id": "Homework 3",
+            "due_date": "4th April 2017",
+            "due_time": "12:00 AM"
+         },
+         {
+            "content_id": "HomeWork 2",
+            "due_date": "16th February 2017",
+            "due_time": "12:00 AM"
+         }
+      ]
+   },
+   "CS 477": {
+      "final": {
+         "value": 96,
+         "average": 81,
+         "median": 83
+      },
+      "overall": {
+         "value": 96,
+         "average": 78,
+         "median": 81
+      }
+   }
+}
+```
 
 We use this JSON data to perform tasks with Blackboard.
