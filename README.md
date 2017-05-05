@@ -4,6 +4,8 @@ Want to relax after a long and tiring day? Forget the grueling process of taking
 
 Our vision for Whiteboard was to provide a more natural interaction modality for performing everyday tasks like checking grades, checking the due date for the next deliverable, asking and answering questions on Piazza, etc. With voice being tooted as the next big platform and voice interaction for learning management still left unexplored, we look at bridging this gap with Whiteboard.
 
+For details on our product setup, deatures, design process and more, check out our website ``https://www.gautamkrishnan.com/project/whiteboard``
+
 
 ## Getting started
 
